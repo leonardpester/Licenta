@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">QuickMenu</string>
+    <string name="staff">STAFF</string>
+    <string name="cheama_un_chelner">Cheama un chelner</string>
+    <string name="intra_in_aplicatie">Intra in aplicatie</string>
+    <string name="todo">TODO</string>
 </resources>
